@@ -1,0 +1,75 @@
+---
+booktitle: Proceedings of The 2nd International Conference on Examples
+shortname: IWSSL
+volume: '192'
+year: '2022'
+start: 2022-07-28
+end: 2022-07-29
+published: 2022-04-03
+layout: proceedings
+series: Proceedings of Machine Learning Research
+publisher: PMLR
+issn: 2640-3498
+id: IWSSL-22
+month: 0
+cycles: false
+bibtex_editor: Th{\'o}risson, Kristinn R.
+editor:
+- given: Kristinn R.
+  family: Thórisson
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of The 2nd International Conference on Examples
+    Held in Reykjavik University, Reykjavik, Iceland on 28-29 July 2022
+
+  Published as Volume 192 by the Proceedings of Machine Learning Research on 03 April 2022.
+
+  Volume Edited by:
+    Kristinn R. Thórisson
+
+  Series Editors:
+    Neil D. Lawrence
+date_str: 28--29 Jul
+url: https://proceedings.mlr.press
+author:
+  name: PMLR
+baseurl: "/v192"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+exclude:
+- README.md
+- Gemfile
+- ".gitignore"
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme
+remote_theme: mlresearch/jekyll-theme
+style: pmlr
+permalink: "/:title.html"
+ghub:
+  edit: true
+  repository: v192
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+volume_type: Volume
+volume_dir: v192
+email: ''
+conference:
+  name: International Workshop on Self-Supervised Learning
+  url: http://cadia.ru.is/events/IWSSL22/
+  location: Reykjavik University, Reykjavik, Iceland
+  dates:
+  - 2022-07-28
+  - 2022-07-29
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+orig_bibfile: "/Users/neil/mlresearch/v192/IWSSL22.bib"
+# Site settings
+# Original source:  /Users/neil/mlresearch/v192/IWSSL22.bib
