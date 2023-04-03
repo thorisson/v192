@@ -31,7 +31,7 @@ author:
   family: Nivel
 date: 2022-04-03
 address:
-container-title: Proceedings of The 2nd International Conference on Examples
+container-title: Proceedings of the Third International Workshop on Self-Supervised Learning
 volume: '192'
 genre: inproceedings
 issued:
