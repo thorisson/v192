@@ -6,8 +6,8 @@ abstract: Recent interest in the ‘Large Language Models’ of deep learning ha
   cannot exist at all. In this extended abstract, we argue that both of these perspectives
   are misconceived. We provide a pragmatic definition of general intelligence, grounded
   in fundamental business and engineering requirements. We explain why a ‘deployed
-  regression model’ (such as deep learning) cannot meet this criterion for \emph{generality}
-  of intelligence. We then proceed to describe the \ARC system, designed and implemented
+  regression model’ (such as deep learning) cannot meet this criterion for <i>generality</i>
+  of intelligence. We then proceed to describe the Holon system, designed and implemented
   to meet this criterion.
 layout: inproceedings
 series: Proceedings of Machine Learning Research
