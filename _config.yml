@@ -1,5 +1,5 @@
 ---
-booktitle: Proceedings of The 2nd International Conference on Examples
+booktitle: Proceedings of the Third International Workshop on Self-Supervised Learning
 shortname: IWSSL
 volume: '192'
 year: '2022'
@@ -19,10 +19,10 @@ editor:
   family: Thórisson
 title: Proceedings of Machine Learning Research
 description: |
-  Proceedings of The 2nd International Conference on Examples
-    Held in Reykjavik University, Reykjavik, Iceland on 28-29 July 2022
+  Proceedings of Third International Workshop on Self-Supervised Learning
+    Held at Reykjavik University, Reykjavik, Iceland on 28-29 July 2022.
 
-  Published as Volume 192 by the Proceedings of Machine Learning Research on 03 April 2022.
+  Published as Volume 192 by the Proceedings of Machine Learning Research on 01 September 2022.
 
   Volume Edited by:
     Kristinn R. Thórisson
